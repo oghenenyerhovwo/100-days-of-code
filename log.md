@@ -8,7 +8,7 @@
 
 **Link to work:** [Random Quote Machine](https://github.com/oghenenyerhovwo/Random-Quote-Machine)
 
-Day 1: January 20, 2022
+### Day 2: January 21, 2022
 Today's Progress: I was able to complete the design and all major feature of the random quote machine except transitioning. .
 
 Thoughts: Just getting through stuffs.
