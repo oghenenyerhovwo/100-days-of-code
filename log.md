@@ -21,5 +21,5 @@ Today's Progress: I finally hosted the site on netlify, it works great, I create
 Thoughts: I feel the same unsatisfaction every programmer feels when some of his codes fials to run as expected but I know I will get it right eventually. May need help though
 
 Link to work: [Random Quote Machine](https://github.com/oghenenyerhovwo/Random-Quote-Machine)
-Link to work: [Random Quote Machine](https://me-random-quote-machine.netlify.app/)
-Link to work: [Random Quote Machine](https://github.com/oghenenyerhovwo/twitter-bot-api)
+Link to work: (https://me-random-quote-machine.netlify.app/)
+Link to work: (https://github.com/oghenenyerhovwo/twitter-bot-api)
