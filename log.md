@@ -27,7 +27,9 @@ Link to work: (https://github.com/oghenenyerhovwo/twitter-bot-api)
 
 ### Day 4: January 23, 2022
 Today's Progress: Done with all I needed to do for this project, you can tweet the quoptes easily, implemented animation, done hosting and ready for the next project. Perhaps something bigger this time. Turns out I dont need a twitter bot api for this
+
 Thoughts: I know spent some time on this, more than I expected but I had to deal with using onscreen keyboard for a while but I fixed the keyboard issue so I should be faster now but its all done.
 
 Link to work: [Random Quote Machine](https://github.com/oghenenyerhovwo/Random-Quote-Machine)
+
 Link to work: (https://me-random-quote-machine.netlify.app/)
