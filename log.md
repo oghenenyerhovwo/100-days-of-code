@@ -30,11 +30,13 @@ Today's Progress: Done with all I needed to do for this project, you can tweet t
 
 Thoughts: I know spent some time on this, more than I expected but I had to deal with using onscreen keyboard for a while but I fixed the keyboard issue so I should be faster now but its all done.
 
+
 ### Day 5: January 24, 2022
 Today's Progress: Started a new project from Free code camp frontend projects. The markdown review. The goal is to be able to type some code on an Editor div that will get instantly displayed on a preview div. So far, I am done with the Styling. Tommorrow to get it fully functional.
 
 Thoughts: I am thinking nothing is impossible to accomplish if you know what you want.
 
+Link to work: https://github.com/oghenenyerhovwo/markdown-preview
 
 ### Day 6: January 25, 2022
 Today's Progress: Finished the mark down preview with React and deployed
@@ -46,4 +48,3 @@ Link to work: https://reactmarkdown-preview.netlify.app/
 
 
 
-Link to work: https://github.com/oghenenyerhovwo/markdown-preview
