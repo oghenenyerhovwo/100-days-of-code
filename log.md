@@ -35,4 +35,15 @@ Today's Progress: Started a new project from Free code camp frontend projects. T
 
 Thoughts: I am thinking nothing is impossible to accomplish if you know what you want.
 
+
+### Day 6: January 25, 2022
+Today's Progress: Finished the mark down preview with React and deployed
+
+Thoughts:  Ready for another project.
+
+Link to work: https://github.com/oghenenyerhovwo/markdown-preview
+Link to work: https://reactmarkdown-preview.netlify.app/
+
+
+
 Link to work: https://github.com/oghenenyerhovwo/markdown-preview
