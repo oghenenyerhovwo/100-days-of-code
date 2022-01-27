@@ -54,3 +54,15 @@ Today's Progress: Began the drum machine project
 Thoughts:  7 and counting.
 
 Link to work: https://github.com/oghenenyerhovwo/drum-machine
+
+
+### Day 8: January 27, 2022
+Today's Progress: Done styling every component needed in the drum machine.
+
+Thoughts:  Growing every day.
+
+Link to work: https://github.com/oghenenyerhovwo/drum-machine
+
+Link to work: https://drum-mach.netlify.app/
+
+
