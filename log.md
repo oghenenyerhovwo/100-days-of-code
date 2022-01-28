@@ -66,3 +66,12 @@ Link to work: https://github.com/oghenenyerhovwo/drum-machine
 Link to work: https://drum-mach.netlify.app/
 
 
+### Day 9: January 28, 2022
+Today's Progress: Created an audio file in each drum pad.
+
+Thoughts:  Determined.
+
+Link to work: https://github.com/oghenenyerhovwo/drum-machine
+
+Link to work: https://drum-mach.netlify.app/
+
