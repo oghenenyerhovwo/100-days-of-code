@@ -75,3 +75,13 @@ Link to work: https://github.com/oghenenyerhovwo/drum-machine
 
 Link to work: https://drum-mach.netlify.app/
 
+
+### Day 10: January 31, 2022
+Today's Progress: Completed drum machine.
+
+Thoughts:  Determined.
+
+Link to work: https://github.com/oghenenyerhovwo/drum-machine
+
+Link to work: https://drum-mach.netlify.app/
+
